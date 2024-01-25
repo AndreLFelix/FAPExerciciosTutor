@@ -1,0 +1,24 @@
+{
+  "gatos": [
+    {
+      "id": "1",
+      "name": "Lasanha",
+      "age": "7.5"
+    },
+    {
+      "id": "2",
+      "name": "Garfield",
+      "age": "4.7"
+    },
+    {
+      "id": "3",
+      "name": "Leia",
+      "age": "3"
+    },
+    {
+      "name": "Little Cat",
+      "age": "0.5",
+      "id": "4"
+    }
+  ]
+}
